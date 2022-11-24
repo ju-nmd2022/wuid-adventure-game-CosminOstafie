@@ -13,7 +13,7 @@ function changePage() {
   location.href = "page3.html";
 }
 function reloadGame() {
-  location.href = "page1.html";
+  location.href = "index.html";
 }
 
 window.addEventListener("load", function () {
